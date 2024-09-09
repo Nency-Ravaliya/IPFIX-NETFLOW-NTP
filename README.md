@@ -77,8 +77,8 @@ Imagine a company wants to monitor traffic between its internal network and exte
 
 By combining **IPFIX/NetFlow** for traffic analysis with **NTP** for accurate timekeeping, network administrators can effectively monitor, troubleshoot, and secure their networks.
 
-
-### **Scenario: Monitoring Traffic in an Office Network**
+# Learn with real-time scenario: 
+# **Scenario: Monitoring Traffic in an Office Network**
 
 Imagine you are the IT manager in an office with 50 employees. You want to know what kind of network traffic is flowing through the office's network: 
 - Who is using the internet the most?
