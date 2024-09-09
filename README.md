@@ -166,4 +166,4 @@ It’s like setting all the clocks in your office to the exact same time so ever
    - **NTP** ensures that the times recorded on both your router and flow collector are consistent, so the request and response times are correctly tracked.
 
 In this way, NetFlow/IPFIX helps you **monitor** and **analyze** network activity, while NTP keeps everything **synchronized**. This is how network administrators keep track of traffic, troubleshoot problems, and ensure smooth performance.
-```
+
