@@ -167,5 +167,3 @@ It’s like setting all the clocks in your office to the exact same time so ever
 
 In this way, NetFlow/IPFIX helps you **monitor** and **analyze** network activity, while NTP keeps everything **synchronized**. This is how network administrators keep track of traffic, troubleshoot problems, and ensure smooth performance.
 ```
-
-This `README.md` preserves all your content as requested.
